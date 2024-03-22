@@ -1,0 +1,6 @@
+[submodule "platform_build"]
+	path = platform_build
+	url = https://github.com/gbertao/platform_build
+[submodule "platform_frameworks_base"]
+	path = platform_frameworks_base
+	url = https://github.com/gbertao/platform_frameworks_base
